@@ -288,7 +288,7 @@ function PlasmicNewPage__RenderFunc(props: {
                   <FormItemWrapper
                     className={classNames(
                       "__wab_instance",
-                      sty.formField__cg0Q
+                      sty.formField__x5ZPy
                     )}
                     initialValue={"none"}
                     label={
@@ -303,7 +303,7 @@ function PlasmicNewPage__RenderFunc(props: {
                   <FormItemWrapper
                     className={classNames(
                       "__wab_instance",
-                      sty.formField__as7Ic
+                      sty.formField__m3NyC
                     )}
                     initialValue={1}
                     label={"\u0633\u06cc\u0628 \u0632\u0645\u06cc\u0646\u06cc"}
@@ -312,7 +312,7 @@ function PlasmicNewPage__RenderFunc(props: {
                     <AntdInputNumber
                       className={classNames(
                         "__wab_instance",
-                        sty.numberInput__y6Sxh
+                        sty.numberInput__ss7Vm
                       )}
                       type={"number"}
                     />
@@ -320,7 +320,7 @@ function PlasmicNewPage__RenderFunc(props: {
                   <FormItemWrapper
                     className={classNames(
                       "__wab_instance",
-                      sty.formField__dnWta
+                      sty.formField__ejTr
                     )}
                     initialValue={1}
                     label={"\u062e\u06cc\u0627\u0631 \u0634\u0648\u0631"}
@@ -329,7 +329,7 @@ function PlasmicNewPage__RenderFunc(props: {
                     <AntdInputNumber
                       className={classNames(
                         "__wab_instance",
-                        sty.numberInput__iLfG4
+                        sty.numberInput__npMLc
                       )}
                       type={"number"}
                     />
@@ -337,7 +337,7 @@ function PlasmicNewPage__RenderFunc(props: {
                   <FormItemWrapper
                     className={classNames(
                       "__wab_instance",
-                      sty.formField__hnqu
+                      sty.formField__rNmCm
                     )}
                     initialValue={1}
                     label={
@@ -348,7 +348,7 @@ function PlasmicNewPage__RenderFunc(props: {
                     <AntdInputNumber
                       className={classNames(
                         "__wab_instance",
-                        sty.numberInput__mVytN
+                        sty.numberInput__iDx48
                       )}
                       type={"number"}
                     />
